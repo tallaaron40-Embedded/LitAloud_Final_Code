@@ -1,6 +1,6 @@
 # LitAloud_Final_Code
 
-LitAloud is a project that turns text into speech. It uses a camera to capture a photo of text, OCR to extract text from the image, AI to correct any mistakes, and TTS to convert it to audio, all run on a raspberry. Here you can find the code we ran on the raspberry pi as well as the code we used to create the mobile app.
+LitAloud is a project that turns text into speech. It uses a camera to capture a photo of text, OCR to extract text from the image, AI to correct any mistakes, and TTS to convert it to audio, all run on a raspberry pi. Here you can find the code we ran on the raspberry pi as well as the code we used to create the mobile app.
 
 ---
 
