@@ -5,8 +5,8 @@
 ## Setup
 1. `pip install -r requirements.txt`
 2. Copy `.env.example` to `.env` and add your Groq API key
-3. Add your own `firebase_key.json` (Firebase service account credentials) to the project root
-4. Download the Piper voice model into `models/` (see models/README.md)
+3. Add your own `firebase_key.json` (Firebase service account key) to the project root — this file is intentionally not tracked in git
+4. Download the Piper voice model — see `models/README.md` for instructions
 5. Run: `python src/main.py`
 
 ## Hardware
