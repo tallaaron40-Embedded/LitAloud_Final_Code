@@ -1,0 +1,7 @@
+opencv-python
+edge-tts
+firebase-admin
+python-dotenv
+gpiozero
+groq
+rapidocr-onnxruntime
