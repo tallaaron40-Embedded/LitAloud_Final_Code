@@ -1,6 +1,6 @@
 # LitAloud
 
-A Raspberry Pi-based assistive reading device that turns any physical book into an audiobook — point the camera at a page, and LitAloud reads it aloud using OCR, AI correction, and text-to-speech.
+ LitAloud is a project that turns text into speech. It uses a camera to capture a photo of text, OCR to extract text from the image, AI to correct any mistakes, and TTS to convert it to audio, all run on a raspberry pi. Here you can find the code we ran on the raspberry pi as well as the code we used to create the mobile app.
 
 ## Setup
 1. `pip install -r requirements.txt`
