@@ -1,13 +1,13 @@
 # LitAloud_Final_Code
 
-LitAloud is a project that [briefly explain what LitAloud does here].
+LitAloud is a project that turns text into speech. It uses a camera to capture a photo of text, OCR to extract text from the image, AI to correct any mistakes, and TTS to convert it to audio, all run on a raspberry. Here you can find the code we ran on the raspberry pi as well as the code we used to create the mobile app.
 
 ---
 
 ## 📁 Repository Structure
 
-* `v1.0-basic/` - Basic implementation of LitAloud.
-* `v2.0-advanced/` - Enhanced version with additional features.
+*
+* 
 
 ---
 
@@ -16,13 +16,10 @@ LitAloud is a project that [briefly explain what LitAloud does here].
 Follow these steps to get LitAloud running on your local machine.
 
 ### Prerequisites
-List software or tools required before starting:
-* Python 3.x (or Node.js, depending on your setup)
-* Git
+* 
+* 
 
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/LitAloud.git](https://github.com/your-username/LitAloud.git)
-   cd LitAloud
+   
