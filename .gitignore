@@ -13,19 +13,5 @@ output.mp3
 output.wav
 
 # model files (too big for git)
-models/*.onnx# secrets
-.env
-firebase_key.json
-
-# python
-__pycache__/
-*.pyc
-.venv/
-
-# generated at runtime
-audio_prompts/
-output.mp3
-output.wav
-
-# model files (too big for git)
 models/*.onnx
+models/*.onnx.json
